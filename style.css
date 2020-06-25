@@ -1,0 +1,107 @@
+#header{
+    background-color: #54b8eb;
+    color: #0C0A08;
+    text-align: center;
+    
+}
+
+#container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+body{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font: outline;stroke-dasharray: initial;
+}
+
+#important{
+    padding: 10px 10px 10px 50px;
+    width: 600px;
+
+}
+
+#nav{
+    width: 180;
+    float: right;
+    padding: 10px 30px 10px 0px;
+    font-size: 17px;
+    background-color: ivory;
+    background-position: center;
+}
+
+#footer{
+    clear: both;
+    padding: 10px;
+    background-color: rgb(202, 112, 130);
+}
+
+#nav .selected{
+    font-weight: bold;
+
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+#nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+#main{
+    font-size: 20px;
+    font-weight: bolder;
+    font-weight: 900;
+    
+}
+
+html{
+    background:url('WhatsApp Image 2020-06-23 at 19.04.22.jpeg') no-repeat centre centre fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size: cover;
+  
+}
+
+p{
+    background-color: ivory;
+    color: maroon;
+}
+
+#about{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#passion{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#interests{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#achievements{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#contact ul{
+    text-align: right;
+    list-style-type: none;
+    padding: 0;
+}
+
+#contact {
+    text-align: right;
+    list-style-type: none;
+    padding: 0;
+}
