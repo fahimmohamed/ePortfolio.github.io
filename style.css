@@ -14,7 +14,8 @@
 body{
     
     font-family: 'Times New Roman', Times, serif;
-    font: outline;stroke-dasharray: initial;
+    font: outline;
+    stroke-dasharray: initial;
 }
 
 #important{
@@ -26,8 +27,8 @@ body{
 #nav{
     width: 180;
     float: right;
-    padding: 10px 30px 10px 0px;
-    font-size: 17px;
+    padding: 10px 30px 0px 0px;
+    font-size: 20px;
     background-color: ivory;
     background-position: center;
 }
@@ -90,7 +91,24 @@ p{
     text-align: center;
 }
 
+#project{
+    background-color: aliceblue;
+    text-align: center;
+}
+
 #achievements{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#leadership ul{
+    background-color: aliceblue;
+    text-align: center;
+    list-style-type: none;
+
+}
+
+#leadership {
     background-color: aliceblue;
     text-align: center;
 }
